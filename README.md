@@ -1,2 +1,6 @@
 # htmlpdfd-docker
-Dockerfiles for running htmlpdfd
+Dockerfiles for running `htmlpdfd`.
+
+	docker run -it -p"8080:8080" formikejo/htmlpdfd
+
+
